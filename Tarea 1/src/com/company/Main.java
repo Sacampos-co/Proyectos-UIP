@@ -58,7 +58,7 @@ public class Main {
             opc=scan.nextLine();
         }
 
-        System.out.println("\n\t\t\t\t\tBANCO A B ");
+        System.out.println("\n\t\t\t\t\tBANCO A B C ");
         System.out.println(reporte);
         System.out.println(totclin);
         System.out.println("\tTOTAL DE CLIENTES PROCESADOS: "+cantcl);
