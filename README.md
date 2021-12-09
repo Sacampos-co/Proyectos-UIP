@@ -1,2 +1,2 @@
-# Programacion2
+# Proyectos UIP
 Trabajos de la materia
