@@ -1,0 +1,1342 @@
+[
+  {
+    "Data Source": "Last Updated Date",
+    "World Development Indicators": "2021-12-16",
+    "": ""
+  },
+  {
+    "Data Source": "Country Name",
+    "World Development Indicators": "Country Code",
+    "": "Indicator Name"
+  },
+  {
+    "Data Source": "Aruba",
+    "World Development Indicators": "ABW",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Africa Eastern and Southern",
+    "World Development Indicators": "AFE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Afghanistan",
+    "World Development Indicators": "AFG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Africa Western and Central",
+    "World Development Indicators": "AFW",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Angola",
+    "World Development Indicators": "AGO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Albania",
+    "World Development Indicators": "ALB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Andorra",
+    "World Development Indicators": "AND",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Arab World",
+    "World Development Indicators": "ARB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "United Arab Emirates",
+    "World Development Indicators": "ARE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Argentina",
+    "World Development Indicators": "ARG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Armenia",
+    "World Development Indicators": "ARM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "American Samoa",
+    "World Development Indicators": "ASM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Antigua and Barbuda",
+    "World Development Indicators": "ATG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Australia",
+    "World Development Indicators": "AUS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Austria",
+    "World Development Indicators": "AUT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Azerbaijan",
+    "World Development Indicators": "AZE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Burundi",
+    "World Development Indicators": "BDI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Belgium",
+    "World Development Indicators": "BEL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Benin",
+    "World Development Indicators": "BEN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Burkina Faso",
+    "World Development Indicators": "BFA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bangladesh",
+    "World Development Indicators": "BGD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bulgaria",
+    "World Development Indicators": "BGR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bahrain",
+    "World Development Indicators": "BHR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bahamas, The",
+    "World Development Indicators": "BHS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bosnia and Herzegovina",
+    "World Development Indicators": "BIH",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Belarus",
+    "World Development Indicators": "BLR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Belize",
+    "World Development Indicators": "BLZ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bermuda",
+    "World Development Indicators": "BMU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bolivia",
+    "World Development Indicators": "BOL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Brazil",
+    "World Development Indicators": "BRA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Barbados",
+    "World Development Indicators": "BRB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Brunei Darussalam",
+    "World Development Indicators": "BRN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Bhutan",
+    "World Development Indicators": "BTN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Botswana",
+    "World Development Indicators": "BWA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Central African Republic",
+    "World Development Indicators": "CAF",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Canada",
+    "World Development Indicators": "CAN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Central Europe and the Baltics",
+    "World Development Indicators": "CEB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Switzerland",
+    "World Development Indicators": "CHE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Channel Islands",
+    "World Development Indicators": "CHI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Chile",
+    "World Development Indicators": "CHL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "China",
+    "World Development Indicators": "CHN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cote d'Ivoire",
+    "World Development Indicators": "CIV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cameroon",
+    "World Development Indicators": "CMR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Congo, Dem. Rep.",
+    "World Development Indicators": "COD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Congo, Rep.",
+    "World Development Indicators": "COG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Colombia",
+    "World Development Indicators": "COL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Comoros",
+    "World Development Indicators": "COM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cabo Verde",
+    "World Development Indicators": "CPV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Costa Rica",
+    "World Development Indicators": "CRI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Caribbean small states",
+    "World Development Indicators": "CSS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cuba",
+    "World Development Indicators": "CUB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Curacao",
+    "World Development Indicators": "CUW",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cayman Islands",
+    "World Development Indicators": "CYM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cyprus",
+    "World Development Indicators": "CYP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Czech Republic",
+    "World Development Indicators": "CZE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Germany",
+    "World Development Indicators": "DEU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Djibouti",
+    "World Development Indicators": "DJI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Dominica",
+    "World Development Indicators": "DMA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Denmark",
+    "World Development Indicators": "DNK",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Dominican Republic",
+    "World Development Indicators": "DOM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Algeria",
+    "World Development Indicators": "DZA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "East Asia & Pacific (excluding high income)",
+    "World Development Indicators": "EAP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Early-demographic dividend",
+    "World Development Indicators": "EAR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "East Asia & Pacific",
+    "World Development Indicators": "EAS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Europe & Central Asia (excluding high income)",
+    "World Development Indicators": "ECA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Europe & Central Asia",
+    "World Development Indicators": "ECS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Ecuador",
+    "World Development Indicators": "ECU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Egypt, Arab Rep.",
+    "World Development Indicators": "EGY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Euro area",
+    "World Development Indicators": "EMU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Eritrea",
+    "World Development Indicators": "ERI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Spain",
+    "World Development Indicators": "ESP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Estonia",
+    "World Development Indicators": "EST",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Ethiopia",
+    "World Development Indicators": "ETH",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "European Union",
+    "World Development Indicators": "EUU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Fragile and conflict affected situations",
+    "World Development Indicators": "FCS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Finland",
+    "World Development Indicators": "FIN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Fiji",
+    "World Development Indicators": "FJI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "France",
+    "World Development Indicators": "FRA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Faroe Islands",
+    "World Development Indicators": "FRO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Micronesia, Fed. Sts.",
+    "World Development Indicators": "FSM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Gabon",
+    "World Development Indicators": "GAB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "United Kingdom",
+    "World Development Indicators": "GBR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Georgia",
+    "World Development Indicators": "GEO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Ghana",
+    "World Development Indicators": "GHA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Gibraltar",
+    "World Development Indicators": "GIB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Guinea",
+    "World Development Indicators": "GIN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Gambia, The",
+    "World Development Indicators": "GMB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Guinea-Bissau",
+    "World Development Indicators": "GNB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Equatorial Guinea",
+    "World Development Indicators": "GNQ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Greece",
+    "World Development Indicators": "GRC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Grenada",
+    "World Development Indicators": "GRD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Greenland",
+    "World Development Indicators": "GRL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Guatemala",
+    "World Development Indicators": "GTM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Guam",
+    "World Development Indicators": "GUM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Guyana",
+    "World Development Indicators": "GUY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "High income",
+    "World Development Indicators": "HIC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Hong Kong SAR, China",
+    "World Development Indicators": "HKG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Honduras",
+    "World Development Indicators": "HND",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Heavily indebted poor countries (HIPC)",
+    "World Development Indicators": "HPC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Croatia",
+    "World Development Indicators": "HRV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Haiti",
+    "World Development Indicators": "HTI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Hungary",
+    "World Development Indicators": "HUN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "IBRD only",
+    "World Development Indicators": "IBD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "IDA & IBRD total",
+    "World Development Indicators": "IBT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "IDA total",
+    "World Development Indicators": "IDA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "IDA blend",
+    "World Development Indicators": "IDB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Indonesia",
+    "World Development Indicators": "IDN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "IDA only",
+    "World Development Indicators": "IDX",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Isle of Man",
+    "World Development Indicators": "IMN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "India",
+    "World Development Indicators": "IND",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Not classified",
+    "World Development Indicators": "INX",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Ireland",
+    "World Development Indicators": "IRL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Iran, Islamic Rep.",
+    "World Development Indicators": "IRN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Iraq",
+    "World Development Indicators": "IRQ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Iceland",
+    "World Development Indicators": "ISL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Israel",
+    "World Development Indicators": "ISR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Italy",
+    "World Development Indicators": "ITA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Jamaica",
+    "World Development Indicators": "JAM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Jordan",
+    "World Development Indicators": "JOR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Japan",
+    "World Development Indicators": "JPN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kazakhstan",
+    "World Development Indicators": "KAZ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kenya",
+    "World Development Indicators": "KEN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kyrgyz Republic",
+    "World Development Indicators": "KGZ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Cambodia",
+    "World Development Indicators": "KHM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kiribati",
+    "World Development Indicators": "KIR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "St. Kitts and Nevis",
+    "World Development Indicators": "KNA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Korea, Rep.",
+    "World Development Indicators": "KOR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kuwait",
+    "World Development Indicators": "KWT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Latin America & Caribbean (excluding high income)",
+    "World Development Indicators": "LAC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Lao PDR",
+    "World Development Indicators": "LAO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Lebanon",
+    "World Development Indicators": "LBN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Liberia",
+    "World Development Indicators": "LBR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Libya",
+    "World Development Indicators": "LBY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "St. Lucia",
+    "World Development Indicators": "LCA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Latin America & Caribbean",
+    "World Development Indicators": "LCN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Least developed countries: UN classification",
+    "World Development Indicators": "LDC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Low income",
+    "World Development Indicators": "LIC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Liechtenstein",
+    "World Development Indicators": "LIE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sri Lanka",
+    "World Development Indicators": "LKA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Lower middle income",
+    "World Development Indicators": "LMC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Low & middle income",
+    "World Development Indicators": "LMY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Lesotho",
+    "World Development Indicators": "LSO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Late-demographic dividend",
+    "World Development Indicators": "LTE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Lithuania",
+    "World Development Indicators": "LTU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Luxembourg",
+    "World Development Indicators": "LUX",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Latvia",
+    "World Development Indicators": "LVA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Macao SAR, China",
+    "World Development Indicators": "MAC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "St. Martin (French part)",
+    "World Development Indicators": "MAF",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Morocco",
+    "World Development Indicators": "MAR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Monaco",
+    "World Development Indicators": "MCO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Moldova",
+    "World Development Indicators": "MDA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Madagascar",
+    "World Development Indicators": "MDG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Maldives",
+    "World Development Indicators": "MDV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Middle East & North Africa",
+    "World Development Indicators": "MEA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mexico",
+    "World Development Indicators": "MEX",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Marshall Islands",
+    "World Development Indicators": "MHL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Middle income",
+    "World Development Indicators": "MIC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "North Macedonia",
+    "World Development Indicators": "MKD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mali",
+    "World Development Indicators": "MLI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Malta",
+    "World Development Indicators": "MLT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Myanmar",
+    "World Development Indicators": "MMR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Middle East & North Africa (excluding high income)",
+    "World Development Indicators": "MNA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Montenegro",
+    "World Development Indicators": "MNE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mongolia",
+    "World Development Indicators": "MNG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Northern Mariana Islands",
+    "World Development Indicators": "MNP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mozambique",
+    "World Development Indicators": "MOZ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mauritania",
+    "World Development Indicators": "MRT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Mauritius",
+    "World Development Indicators": "MUS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Malawi",
+    "World Development Indicators": "MWI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Malaysia",
+    "World Development Indicators": "MYS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "North America",
+    "World Development Indicators": "NAC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Namibia",
+    "World Development Indicators": "NAM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "New Caledonia",
+    "World Development Indicators": "NCL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Niger",
+    "World Development Indicators": "NER",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Nigeria",
+    "World Development Indicators": "NGA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Nicaragua",
+    "World Development Indicators": "NIC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Netherlands",
+    "World Development Indicators": "NLD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Norway",
+    "World Development Indicators": "NOR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Nepal",
+    "World Development Indicators": "NPL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Nauru",
+    "World Development Indicators": "NRU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "New Zealand",
+    "World Development Indicators": "NZL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "OECD members",
+    "World Development Indicators": "OED",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Oman",
+    "World Development Indicators": "OMN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Other small states",
+    "World Development Indicators": "OSS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Pakistan",
+    "World Development Indicators": "PAK",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Panama",
+    "World Development Indicators": "PAN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Peru",
+    "World Development Indicators": "PER",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Philippines",
+    "World Development Indicators": "PHL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Palau",
+    "World Development Indicators": "PLW",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Papua New Guinea",
+    "World Development Indicators": "PNG",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Poland",
+    "World Development Indicators": "POL",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Pre-demographic dividend",
+    "World Development Indicators": "PRE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Puerto Rico",
+    "World Development Indicators": "PRI",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Korea, Dem. People's Rep.",
+    "World Development Indicators": "PRK",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Portugal",
+    "World Development Indicators": "PRT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Paraguay",
+    "World Development Indicators": "PRY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "West Bank and Gaza",
+    "World Development Indicators": "PSE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Pacific island small states",
+    "World Development Indicators": "PSS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Post-demographic dividend",
+    "World Development Indicators": "PST",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "French Polynesia",
+    "World Development Indicators": "PYF",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Qatar",
+    "World Development Indicators": "QAT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Romania",
+    "World Development Indicators": "ROU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Russian Federation",
+    "World Development Indicators": "RUS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Rwanda",
+    "World Development Indicators": "RWA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "South Asia",
+    "World Development Indicators": "SAS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Saudi Arabia",
+    "World Development Indicators": "SAU",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sudan",
+    "World Development Indicators": "SDN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Senegal",
+    "World Development Indicators": "SEN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Singapore",
+    "World Development Indicators": "SGP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Solomon Islands",
+    "World Development Indicators": "SLB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sierra Leone",
+    "World Development Indicators": "SLE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "El Salvador",
+    "World Development Indicators": "SLV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "San Marino",
+    "World Development Indicators": "SMR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Somalia",
+    "World Development Indicators": "SOM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Serbia",
+    "World Development Indicators": "SRB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sub-Saharan Africa (excluding high income)",
+    "World Development Indicators": "SSA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "South Sudan",
+    "World Development Indicators": "SSD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sub-Saharan Africa",
+    "World Development Indicators": "SSF",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Small states",
+    "World Development Indicators": "SST",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sao Tome and Principe",
+    "World Development Indicators": "STP",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Suriname",
+    "World Development Indicators": "SUR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Slovak Republic",
+    "World Development Indicators": "SVK",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Slovenia",
+    "World Development Indicators": "SVN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sweden",
+    "World Development Indicators": "SWE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Eswatini",
+    "World Development Indicators": "SWZ",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sint Maarten (Dutch part)",
+    "World Development Indicators": "SXM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Seychelles",
+    "World Development Indicators": "SYC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Syrian Arab Republic",
+    "World Development Indicators": "SYR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Turks and Caicos Islands",
+    "World Development Indicators": "TCA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Chad",
+    "World Development Indicators": "TCD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "East Asia & Pacific (IDA & IBRD countries)",
+    "World Development Indicators": "TEA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Europe & Central Asia (IDA & IBRD countries)",
+    "World Development Indicators": "TEC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Togo",
+    "World Development Indicators": "TGO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Thailand",
+    "World Development Indicators": "THA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Tajikistan",
+    "World Development Indicators": "TJK",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Turkmenistan",
+    "World Development Indicators": "TKM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "World Development Indicators": "TLA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Timor-Leste",
+    "World Development Indicators": "TLS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Middle East & North Africa (IDA & IBRD countries)",
+    "World Development Indicators": "TMN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Tonga",
+    "World Development Indicators": "TON",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "South Asia (IDA & IBRD)",
+    "World Development Indicators": "TSA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "World Development Indicators": "TSS",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Trinidad and Tobago",
+    "World Development Indicators": "TTO",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Tunisia",
+    "World Development Indicators": "TUN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Turkey",
+    "World Development Indicators": "TUR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Tuvalu",
+    "World Development Indicators": "TUV",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Tanzania",
+    "World Development Indicators": "TZA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Uganda",
+    "World Development Indicators": "UGA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Ukraine",
+    "World Development Indicators": "UKR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Upper middle income",
+    "World Development Indicators": "UMC",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Uruguay",
+    "World Development Indicators": "URY",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "United States",
+    "World Development Indicators": "USA",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Uzbekistan",
+    "World Development Indicators": "UZB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "St. Vincent and the Grenadines",
+    "World Development Indicators": "VCT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Venezuela, RB",
+    "World Development Indicators": "VEN",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "British Virgin Islands",
+    "World Development Indicators": "VGB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Virgin Islands (U.S.)",
+    "World Development Indicators": "VIR",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Vietnam",
+    "World Development Indicators": "VNM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Vanuatu",
+    "World Development Indicators": "VUT",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "World",
+    "World Development Indicators": "WLD",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Samoa",
+    "World Development Indicators": "WSM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Kosovo",
+    "World Development Indicators": "XKX",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Yemen, Rep.",
+    "World Development Indicators": "YEM",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "South Africa",
+    "World Development Indicators": "ZAF",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Zambia",
+    "World Development Indicators": "ZMB",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  },
+  {
+    "Data Source": "Zimbabwe",
+    "World Development Indicators": "ZWE",
+    "": "Immunization, measles (% of children ages 12-23 months)"
+  }
+]

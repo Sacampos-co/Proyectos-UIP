@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cita medica</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.9.4/dist/css/uikit.min.css" />
+    <link rel="stylesheet" href="app.css" />
+</head>
+
+<body>
+    <div class="table">
+        <div class="title">
+            <h1 class="uk-text-uppercase uk-text-bolder">Formulario de citas médicas</h1>
+            <small>Bienvenido al creador de citas online</small>
+        </div>
+
+        <form class="form" id="myForm" uk-grid>
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Nombre del paciente</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="nombre" type="text"
+                        placeholder="¿Cual es el nombre del paciente">
+                </div>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Numero de telefono</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="phone" type="tel" placeholder="555-555">
+                </div>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Email</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="email" type="email" placeholder="mail@example.com">
+                </div>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Lugar</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="ubicacion" type="text" placeholder="Colon">
+                </div>
+            </div>
+
+            <div class="uk-width-1-1@s">
+                <label class="uk-form-label" for="form-stacked-text">Sintomas</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input uk-form-larget" id="symptom" type="text"
+                        placeholder="Descripcion...">
+                </div>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Fecha</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="date" type="date" placeholder="12/21">
+                </div>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <label class="uk-form-label" for="form-stacked-text">Hora</label>
+                <div class="uk-form-controls">
+                    <input class="uk-input" id="time" type="time">
+                </div>
+            </div>
+
+
+            <div class="uk-width-1-2@s">
+                <div class="uk-form-controls">
+                    <input class="uk-input uk-button-secondary" id="enviar formulario" type="submit">
+                </div>
+            </div>
+
+        </form>
+
+        <small id="message" class="uk-text-primary">...</small>
+</body>
+
+<script src="app.js"></script>
+
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.9.4/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.9.4/dist/js/uikit-icons.min.js"></script>
+
+</html>
